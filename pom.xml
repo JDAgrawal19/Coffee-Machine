@@ -61,7 +61,15 @@
         <artifactId>junit-platform-commons</artifactId>
         <version>1.7.0-M1</version>
         <scope>compile</scope>
+
     </dependency>
+
+        <dependency>
+            <groupId>commons-io</groupId>
+            <artifactId>commons-io</artifactId>
+            <version>2.6</version>
+        </dependency>
+
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
